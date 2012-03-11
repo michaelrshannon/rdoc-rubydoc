@@ -7,7 +7,7 @@ Maintained by James Britt <james@neurogami.com>
 
 ## Description
 
-Rubydoc is an RDoc formatter producing HTML documentation.
+`rubydoc` is an RDoc formatter producing HTML documentation.
 
 The default template is +rubydoc+.
 
@@ -27,7 +27,7 @@ The Inuit CSS framework (http://csswizardry.com/inuitcss) is also a part of this
 
 ## Note ##
 
-The temaplte was developed as part of an upgrading of ruby-doc.org.  
+The template was developed as part of an upgrading of ruby-doc.org.  
 
 One goal was to have a common look across the entire site.  That meant that the CSS and (to some extent) templating needed to be shared across seperate projects.
 
