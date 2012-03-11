@@ -1,0 +1,3 @@
+
+module RDocRubydoc
+end
