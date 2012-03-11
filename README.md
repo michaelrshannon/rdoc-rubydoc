@@ -1,4 +1,4 @@
-# Rubydoc #
+# RDoc-Rubydoc #
 
 http://github.com/neurogami/rdoc-rubydoc
 
