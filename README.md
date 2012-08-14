@@ -47,7 +47,8 @@ To output documentation formatted by Rubydoc, use the <tt>--format/-f</tt>
 RDoc switch. For instance, to generate the documentation for Ruby core:
 
 `
-  $ gem install rdoc-rubydoc
+  # Note: You need to first get the source and build the gem locally and install your local copy
+  $ gem install </path/to/your/build/of/rdoc-rubydoc.gem>
   $ cd ~/.rvm/src/ruby-1.8.7-p302
   $ rdoc -f rubydoc -a -t "Ruby 1.8.7 Core" -o ~/docs/ruby_core_187 *.c
 `
